@@ -5,6 +5,7 @@ seoDescription: "Resolve Ghost's "Loading interrupted" error through correct Act
 datePublished: Thu Sep 25 2025 10:28:57 GMT+0000 (Coordinated Universal Time)
 cuid: cmfz9t4v8000102lhett86ebh
 slug: debugging-ghosts-activitypub-integration-from-loading-interrupted-to-social-web-success
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1758796224210/51090337-cbdd-4204-be7c-0d4a8fab18af.png
 tags: ghost, debugging, decentralization, activitypub, federated-social-web
 
 ---
