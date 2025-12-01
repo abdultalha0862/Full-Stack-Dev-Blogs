@@ -232,4 +232,4 @@ If you want to:
 ⭐ GitHub: [https://github.com/abdultalha0862](https://github.com/abdultalha0862)
 
 If you found this project interesting,  
-⭐ **Star the repository on GitHub** — it genuinely helps!
+⭐ **Star the repository on GitHub,** it genuinely helps!
