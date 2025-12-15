@@ -15,7 +15,7 @@ tags: python, django, opensource, developer, wsl, open-source, zulip
 
 Setting up **Zulip locally** is not a typical Django setup.
 
-After contributing to **Ghost**, I wanted to challenge myself with a **larger backend system** one that reflects real-world complexity. Zulip stood out because of its scale, architecture, and active open-source community.
+After contributing to **Ghost**, I wanted to challenge myself with a **larger backend system,** one that reflects real-world complexity. Zulip stood out because of its scale, architecture, and active open-source community.
 
 Zulip is built using:
 
@@ -28,7 +28,7 @@ Zulip is built using:
 * RabbitMQ
     
 
-While the setup process is well-documented, I still faced some issues especially around Python virtual environments and WSL configuration.
+While the setup process is well-documented, I still faced some issues, especially around Python virtual environments and WSL configuration.
 
 In this post, I’ll walk through:
 
@@ -71,7 +71,7 @@ Before starting, make sure your system meets these requirements.
 
 * Windows 10 or 11 (64-bit)
     
-* Virtualization enabled (VT-x / AMD-V)
+* Virtualisation enabled (VT-x / AMD-V)
     
 * Administrator access
     
@@ -312,11 +312,11 @@ Then re-run:
 
 ### Technical Learnings
 
-* Modern tools like **uv** change long-standing Python assumptions
+* Modern tools like **UV** change long-standing Python assumptions
     
 * Understanding virtual environment internals is useful for debugging
     
-* Proper WSL2 + systemd setup is critical for backend services
+* A proper WSL2 + systemd setup is critical for backend services
     
 
 ### Soft Learnings
