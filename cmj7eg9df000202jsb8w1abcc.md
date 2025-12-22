@@ -1,8 +1,10 @@
 ---
-title: "My First Contribution to Zulip: Fixing Empty Topic Display in Email Notifications(#)"
+title: "My First Contribution to Zulip: Fixing Empty Topic Display in Email Notifications (#36689)"
+seoTitle: "Fixing Zulip Email Notifications Topics"
+seoDescription: "Fixing Zulip email bugs improved user experience and taught debugging, testing, open source contribution, and future involvement lessons"
 datePublished: Mon Dec 15 2025 17:00:10 GMT+0000 (Coordinated Universal Time)
 cuid: cmj7eg9df000202jsb8w1abcc
-slug: my-first-contribution-to-zulip-fixing-empty-topic-display-in-email-notifications
+slug: my-first-contribution-to-zulip-fixing-empty-topic-display-in-email-notifications-36689
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1765797855365/a808bb0d-27ab-4f86-bda1-e3a48b54cd60.png
 tags: github, python, django, opensource, git
 
