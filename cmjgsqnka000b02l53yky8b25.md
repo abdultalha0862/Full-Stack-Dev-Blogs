@@ -193,6 +193,8 @@ This is a core part of my Learn in Public journey.
 
 (This is where I add images of my handwritten notes.)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1766386427807/78679026-b058-474f-bf4f-ddf9066258cc.jpeg align="center")
+
 ## **Final Thoughts**
 
 Open source is not just about writing code. It helps with learning, networking, career exploration, and building trust.
